@@ -5,7 +5,7 @@ namespace App\Actions;
 use App\Models\User;
 use Illuminate\Support\Facades\Hash;
 
-class StoreUSer
+class StoreUser
 {
     public function handle()
     {
